@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\bin\Debug\StringCheckLibrary.dll
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\bin\Debug\StringCheckLibrary.pdb
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\obj\Debug\StringCheckLibrary.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\obj\Debug\StringCheckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\obj\Debug\StringCheckLibrary.dll
+C:\Users\Vlad\source\repos\TestProject\TestProject\StringCheckLibrary\obj\Debug\StringCheckLibrary.pdb
