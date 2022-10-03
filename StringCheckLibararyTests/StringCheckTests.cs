@@ -7,6 +7,9 @@ namespace StringCheckLibararyTests
     [TestClass]
     public class StringCheckTests
     {
+        /// <summary>
+        /// Проверка на пустую строку.
+        /// </summary>
         [TestMethod]
         public void CheckName_isEmpty_ReturnedFalse()
         {
@@ -18,6 +21,9 @@ namespace StringCheckLibararyTests
             //Assert
             Assert.IsFalse(result);
         }
+        /// <summary>
+        /// Проверка на ввод больше 50
+        /// </summary>
         [TestMethod]
         public void CheckName_isMany50_ReturnedFalse()
         {
